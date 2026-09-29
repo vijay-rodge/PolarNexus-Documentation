@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -27,7 +27,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg pn-btn-secondary"
-            to="/blog">
+            to="/rag-blog">
             RAG & ML Deep Dives
           </Link>
         </div>
