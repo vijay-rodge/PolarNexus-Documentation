@@ -10,7 +10,7 @@ const config = {
   url: 'https://polarnexus.ncpor.res.in',
   baseUrl: '/',
 
-  organizationName: 'ncpor-moes',
+  organizationName: 'vijay-rodge',
   projectName: 'polarnexus',
 
   onBrokenLinks: 'warn',
