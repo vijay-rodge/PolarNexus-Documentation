@@ -1,0 +1,27 @@
+{
+  "id": "platform/media-gallery",
+  "title": "Media Gallery & Figure Dissemination",
+  "description": "1. Visual Dissemination Hub",
+  "source": "@site/docs/platform/media-gallery.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/media-gallery",
+  "permalink": "/docs/platform/media-gallery",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Media Gallery & Figure Dissemination",
+    "sidebar_position": 10
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Publication Explorer & Live DSpace Harvester",
+    "permalink": "/docs/platform/publication-explorer"
+  },
+  "next": {
+    "title": "Scientific Visualizations Studio",
+    "permalink": "/docs/platform/visualization"
+  }
+}

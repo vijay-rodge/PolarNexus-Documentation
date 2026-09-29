@@ -1,0 +1,27 @@
+{
+  "id": "overview/project-vision",
+  "title": "Project Vision & Strategic Roadmap",
+  "description": "1. High-Level Vision Statement",
+  "source": "@site/docs/overview/project-vision.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/project-vision",
+  "permalink": "/docs/overview/project-vision",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Project Vision & Strategic Roadmap",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Problem Statement & Scientific Context",
+    "permalink": "/docs/overview/problem-statement"
+  },
+  "next": {
+    "title": "System Objectives & Quantitative KPIs",
+    "permalink": "/docs/overview/objectives"
+  }
+}

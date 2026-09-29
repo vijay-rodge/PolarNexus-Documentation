@@ -1,0 +1,27 @@
+{
+  "id": "development/database-setup",
+  "title": "Database Initialization & Seeding",
+  "description": "1. Schema Creation",
+  "source": "@site/docs/development/database-setup.md",
+  "sourceDirName": "development",
+  "slug": "/development/database-setup",
+  "permalink": "/docs/development/database-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Database Initialization & Seeding",
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Application Configuration",
+    "permalink": "/docs/development/configuration"
+  },
+  "next": {
+    "title": "Ingestion Engine Configuration",
+    "permalink": "/docs/development/ingestion-setup"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "permalink": "/ml-blog/09-kmeans-clustering",
+  "source": "@site/blog/ml/09-kmeans-clustering.md",
+  "title": "Part 09: K-Means Clustering of Multi-Decadal Polar Research",
+  "description": "Vectorizing historical expedition monographs into high-dimensional clusters to map 40 years of scientific evolution.",
+  "date": "2026-09-30T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "machine-learning",
+      "permalink": "/ml-blog/tags/machine-learning"
+    },
+    {
+      "inline": true,
+      "label": "classification",
+      "permalink": "/ml-blog/tags/classification"
+    },
+    {
+      "inline": true,
+      "label": "scikit-learn",
+      "permalink": "/ml-blog/tags/scikit-learn"
+    },
+    {
+      "inline": true,
+      "label": "polar-science",
+      "permalink": "/ml-blog/tags/polar-science"
+    },
+    {
+      "inline": true,
+      "label": "tfidf",
+      "permalink": "/ml-blog/tags/tfidf"
+    }
+  ],
+  "readingTime": 2.6,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "PolarNexus Engineering Team",
+      "title": "NCPOR Polar Cyberinfrastructure Group",
+      "url": "https://github.com/vijay-rodge/PolarNexus",
+      "imageURL": "https://github.com/identicons/polarnexus.png",
+      "key": "polarnexus-eng",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "09-kmeans-clustering",
+    "title": "Part 09: K-Means Clustering of Multi-Decadal Polar Research",
+    "description": "Vectorizing historical expedition monographs into high-dimensional clusters to map 40 years of scientific evolution.",
+    "authors": [
+      "polarnexus-eng"
+    ],
+    "tags": [
+      "machine-learning",
+      "classification",
+      "scikit-learn",
+      "polar-science",
+      "tfidf"
+    ],
+    "date": "2026-09-30T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Part 08: Unsupervised Learning for Cryospheric Discovery",
+    "permalink": "/ml-blog/08-unsupervised-learning"
+  },
+  "nextItem": {
+    "title": "Part 10: Density-Based Spatial Clustering (DBSCAN) for Geodetic Benchmarks",
+    "permalink": "/ml-blog/10-dbscan"
+  }
+}

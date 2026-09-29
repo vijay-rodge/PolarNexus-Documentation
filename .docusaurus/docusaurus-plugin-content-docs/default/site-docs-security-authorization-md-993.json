@@ -1,0 +1,27 @@
+{
+  "id": "security/authorization",
+  "title": "Authorization & Permission Scopes",
+  "description": "1. JWT Scopes Architecture",
+  "source": "@site/docs/security/authorization.md",
+  "sourceDirName": "security",
+  "slug": "/security/authorization",
+  "permalink": "/docs/security/authorization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Authorization & Permission Scopes",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "User Authentication Protocols",
+    "permalink": "/docs/security/authentication"
+  },
+  "next": {
+    "title": "Data Security & Storage Encryption",
+    "permalink": "/docs/security/data-security"
+  }
+}

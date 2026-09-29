@@ -1,0 +1,27 @@
+{
+  "id": "architecture/high-level-architecture",
+  "title": "High-Level Architecture",
+  "description": "1. Multi-Tier System Topology",
+  "source": "@site/docs/architecture/high-level-architecture.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/high-level-architecture",
+  "permalink": "/docs/architecture/high-level-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "High-Level Architecture",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "System Architecture Overview",
+    "permalink": "/docs/architecture/system-overview"
+  },
+  "next": {
+    "title": "Component Architecture & Code Modules",
+    "permalink": "/docs/architecture/component-architecture"
+  }
+}

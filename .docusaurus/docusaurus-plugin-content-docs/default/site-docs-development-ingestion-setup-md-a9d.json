@@ -1,0 +1,27 @@
+{
+  "id": "development/ingestion-setup",
+  "title": "Ingestion Engine Configuration",
+  "description": "1. Running Sample Ingestion",
+  "source": "@site/docs/development/ingestion-setup.md",
+  "sourceDirName": "development",
+  "slug": "/development/ingestion-setup",
+  "permalink": "/docs/development/ingestion-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Ingestion Engine Configuration",
+    "sidebar_position": 7
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Database Initialization & Seeding",
+    "permalink": "/docs/development/database-setup"
+  },
+  "next": {
+    "title": "Running the Streamlit Application",
+    "permalink": "/docs/development/running-the-application"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "permalink": "/rag-blog/07-embeddings",
+  "source": "@site/blog/rag/07-embeddings.md",
+  "title": "Part 07: Dense Semantic Embeddings for Cryospheric Literature",
+  "description": "Evaluating dense vector representation models on specialized earth science terminology.",
+  "date": "2026-09-30T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "rag",
+      "permalink": "/rag-blog/tags/rag"
+    },
+    {
+      "inline": true,
+      "label": "architecture",
+      "permalink": "/rag-blog/tags/architecture"
+    },
+    {
+      "inline": true,
+      "label": "polar-science",
+      "permalink": "/rag-blog/tags/polar-science"
+    },
+    {
+      "inline": true,
+      "label": "dspace",
+      "permalink": "/rag-blog/tags/dspace"
+    },
+    {
+      "inline": true,
+      "label": "vectors",
+      "permalink": "/rag-blog/tags/vectors"
+    }
+  ],
+  "readingTime": 2.28,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "PolarNexus Engineering Team",
+      "title": "NCPOR Polar Cyberinfrastructure Group",
+      "url": "https://github.com/vijay-rodge/PolarNexus",
+      "imageURL": "https://github.com/identicons/polarnexus.png",
+      "key": "polarnexus-eng",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "07-embeddings",
+    "title": "Part 07: Dense Semantic Embeddings for Cryospheric Literature",
+    "description": "Evaluating dense vector representation models on specialized earth science terminology.",
+    "authors": [
+      "polarnexus-eng"
+    ],
+    "tags": [
+      "rag",
+      "architecture",
+      "polar-science",
+      "dspace",
+      "vectors"
+    ],
+    "date": "2026-09-30T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Part 06: Metadata Engineering and Provenance Enrichment",
+    "permalink": "/rag-blog/06-metadata-engineering"
+  },
+  "nextItem": {
+    "title": "Part 08: Architecting ChromaDB for Enterprise Vector Persistence",
+    "permalink": "/rag-blog/08-chromadb"
+  }
+}

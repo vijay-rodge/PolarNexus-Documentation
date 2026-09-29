@@ -1,0 +1,27 @@
+{
+  "id": "platform/homepage",
+  "title": "Homepage Dashboard & Metrics",
+  "description": "1. Executive Portal Dashboard",
+  "source": "@site/docs/platform/homepage.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/homepage",
+  "permalink": "/docs/platform/homepage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Homepage Dashboard & Metrics",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Streamlit Application Architecture",
+    "permalink": "/docs/platform/streamlit-application"
+  },
+  "next": {
+    "title": "Intelligent Search & Discovery",
+    "permalink": "/docs/platform/intelligent-search"
+  }
+}

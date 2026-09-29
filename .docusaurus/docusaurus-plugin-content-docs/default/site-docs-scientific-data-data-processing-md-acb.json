@@ -1,0 +1,27 @@
+{
+  "id": "scientific-data/data-processing",
+  "title": "Data Processing & Resampling",
+  "description": "1. Temporal Aggregation Routines",
+  "source": "@site/docs/scientific-data/data-processing.md",
+  "sourceDirName": "scientific-data",
+  "slug": "/scientific-data/data-processing",
+  "permalink": "/docs/scientific-data/data-processing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Data Processing & Resampling",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Dataset Querying & Temporal Slicing",
+    "permalink": "/docs/scientific-data/dataset-querying"
+  },
+  "next": {
+    "title": "Statistical Analysis & Extreme Value Theory",
+    "permalink": "/docs/scientific-data/statistical-analysis"
+  }
+}

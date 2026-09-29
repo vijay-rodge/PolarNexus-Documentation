@@ -1,0 +1,27 @@
+{
+  "id": "platform/intelligent-search",
+  "title": "Intelligent Search & Discovery",
+  "description": "1. Unified Hybrid Discovery",
+  "source": "@site/docs/platform/intelligent-search.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/intelligent-search",
+  "permalink": "/docs/platform/intelligent-search",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Intelligent Search & Discovery",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Homepage Dashboard & Metrics",
+    "permalink": "/docs/platform/homepage"
+  },
+  "next": {
+    "title": "Polar AI Assistant (LangGraph RAG)",
+    "permalink": "/docs/platform/assistant"
+  }
+}

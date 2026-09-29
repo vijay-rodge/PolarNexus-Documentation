@@ -1,0 +1,71 @@
+{
+  "permalink": "/rag-blog/11-context-assembly",
+  "source": "@site/blog/rag/11-context-assembly.md",
+  "title": "Part 11: Optimal Context Assembly and Prompt Injection Defense",
+  "description": "Assembling retrieved evidence into token-budgeted prompts while preventing prompt injection vulnerabilities.",
+  "date": "2026-09-30T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "rag",
+      "permalink": "/rag-blog/tags/rag"
+    },
+    {
+      "inline": true,
+      "label": "architecture",
+      "permalink": "/rag-blog/tags/architecture"
+    },
+    {
+      "inline": true,
+      "label": "polar-science",
+      "permalink": "/rag-blog/tags/polar-science"
+    },
+    {
+      "inline": true,
+      "label": "dspace",
+      "permalink": "/rag-blog/tags/dspace"
+    },
+    {
+      "inline": true,
+      "label": "vectors",
+      "permalink": "/rag-blog/tags/vectors"
+    }
+  ],
+  "readingTime": 2.28,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "PolarNexus Engineering Team",
+      "title": "NCPOR Polar Cyberinfrastructure Group",
+      "url": "https://github.com/vijay-rodge/PolarNexus",
+      "imageURL": "https://github.com/identicons/polarnexus.png",
+      "key": "polarnexus-eng",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "11-context-assembly",
+    "title": "Part 11: Optimal Context Assembly and Prompt Injection Defense",
+    "description": "Assembling retrieved evidence into token-budgeted prompts while preventing prompt injection vulnerabilities.",
+    "authors": [
+      "polarnexus-eng"
+    ],
+    "tags": [
+      "rag",
+      "architecture",
+      "polar-science",
+      "dspace",
+      "vectors"
+    ],
+    "date": "2026-09-30T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Part 10: Multi-Stage Hybrid Retrieval Architectures",
+    "permalink": "/rag-blog/10-retrieval-pipeline"
+  },
+  "nextItem": {
+    "title": "Part 12: Domain-Specific Prompt Engineering for Polar Research",
+    "permalink": "/rag-blog/12-prompt-engineering"
+  }
+}

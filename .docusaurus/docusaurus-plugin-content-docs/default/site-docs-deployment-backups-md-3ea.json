@@ -1,0 +1,27 @@
+{
+  "id": "deployment/backups",
+  "title": "Backup Policies & Snapshots",
+  "description": "1. Daily Backup Protocol",
+  "source": "@site/docs/deployment/backups.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/backups",
+  "permalink": "/docs/deployment/backups",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Backup Policies & Snapshots",
+    "sidebar_position": 9
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "System Monitoring & Telemetry",
+    "permalink": "/docs/deployment/monitoring"
+  },
+  "next": {
+    "title": "Disaster Recovery & Continuity",
+    "permalink": "/docs/deployment/disaster-recovery"
+  }
+}

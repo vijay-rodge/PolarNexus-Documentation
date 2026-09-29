@@ -1,0 +1,27 @@
+{
+  "id": "development/local-setup",
+  "title": "Local Environment Setup",
+  "description": "1. Quickstart Commands",
+  "source": "@site/docs/development/local-setup.md",
+  "sourceDirName": "development",
+  "slug": "/development/local-setup",
+  "permalink": "/docs/development/local-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Local Environment Setup",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Development Prerequisites",
+    "permalink": "/docs/development/prerequisites"
+  },
+  "next": {
+    "title": "Environment Variables Configuration",
+    "permalink": "/docs/development/environment-variables"
+  }
+}

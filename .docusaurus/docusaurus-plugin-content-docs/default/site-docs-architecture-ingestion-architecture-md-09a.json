@@ -1,0 +1,27 @@
+{
+  "id": "architecture/ingestion-architecture",
+  "title": "Ingestion Architecture & Harvesting Engine",
+  "description": "1. DSpace Harvester Architecture",
+  "source": "@site/docs/architecture/ingestion-architecture.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/ingestion-architecture",
+  "permalink": "/docs/architecture/ingestion-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Ingestion Architecture & Harvesting Engine",
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "System Data Flow & Pipeline Transformations",
+    "permalink": "/docs/architecture/data-flow"
+  },
+  "next": {
+    "title": "Query Processing & Intent Classification",
+    "permalink": "/docs/architecture/query-processing"
+  }
+}

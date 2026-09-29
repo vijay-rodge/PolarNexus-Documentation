@@ -1,0 +1,27 @@
+{
+  "id": "deployment/storage",
+  "title": "Storage Architecture & Persistent Volumes",
+  "description": "1. Volume Mounts",
+  "source": "@site/docs/deployment/storage.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/storage",
+  "permalink": "/docs/deployment/storage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Storage Architecture & Persistent Volumes",
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "PostgreSQL Deployment & Migration",
+    "permalink": "/docs/deployment/database-deployment"
+  },
+  "next": {
+    "title": "Background Workers & Ingestion Schedulers",
+    "permalink": "/docs/deployment/background-workers"
+  }
+}

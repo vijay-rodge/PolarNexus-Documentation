@@ -1,0 +1,27 @@
+{
+  "id": "api/expedition-api",
+  "title": "Expeditions API Reference",
+  "description": "1. Endpoint: GET /api/v1/expeditions",
+  "source": "@site/docs/api/expedition-api.md",
+  "sourceDirName": "api",
+  "slug": "/api/expedition-api",
+  "permalink": "/docs/api/expedition-api",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Expeditions API Reference",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Unified Search & AI Query API",
+    "permalink": "/docs/api/search-api"
+  },
+  "next": {
+    "title": "Stations & Observatories API",
+    "permalink": "/docs/api/station-api"
+  }
+}

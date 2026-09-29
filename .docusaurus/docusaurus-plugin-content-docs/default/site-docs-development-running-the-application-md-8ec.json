@@ -1,0 +1,27 @@
+{
+  "id": "development/running-the-application",
+  "title": "Running the Streamlit Application",
+  "description": "1. Launching the Web Portal",
+  "source": "@site/docs/development/running-the-application.md",
+  "sourceDirName": "development",
+  "slug": "/development/running-the-application",
+  "permalink": "/docs/development/running-the-application",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Running the Streamlit Application",
+    "sidebar_position": 8
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Ingestion Engine Configuration",
+    "permalink": "/docs/development/ingestion-setup"
+  },
+  "next": {
+    "title": "Automated Testing & Verification",
+    "permalink": "/docs/development/testing"
+  }
+}

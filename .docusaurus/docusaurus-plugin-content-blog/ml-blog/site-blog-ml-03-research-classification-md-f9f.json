@@ -1,0 +1,71 @@
+{
+  "permalink": "/ml-blog/03-research-classification",
+  "source": "@site/blog/ml/03-research-classification.md",
+  "title": "Part 03: Scientific Domain Classification for Polar Research",
+  "description": "Categorizing multidisciplinary expedition manuscripts into Glaciology, Meteorology, Oceanography, Biology, and Geodesy.",
+  "date": "2026-09-30T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "machine-learning",
+      "permalink": "/ml-blog/tags/machine-learning"
+    },
+    {
+      "inline": true,
+      "label": "classification",
+      "permalink": "/ml-blog/tags/classification"
+    },
+    {
+      "inline": true,
+      "label": "scikit-learn",
+      "permalink": "/ml-blog/tags/scikit-learn"
+    },
+    {
+      "inline": true,
+      "label": "polar-science",
+      "permalink": "/ml-blog/tags/polar-science"
+    },
+    {
+      "inline": true,
+      "label": "tfidf",
+      "permalink": "/ml-blog/tags/tfidf"
+    }
+  ],
+  "readingTime": 2.6,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "PolarNexus Engineering Team",
+      "title": "NCPOR Polar Cyberinfrastructure Group",
+      "url": "https://github.com/vijay-rodge/PolarNexus",
+      "imageURL": "https://github.com/identicons/polarnexus.png",
+      "key": "polarnexus-eng",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "03-research-classification",
+    "title": "Part 03: Scientific Domain Classification for Polar Research",
+    "description": "Categorizing multidisciplinary expedition manuscripts into Glaciology, Meteorology, Oceanography, Biology, and Geodesy.",
+    "authors": [
+      "polarnexus-eng"
+    ],
+    "tags": [
+      "machine-learning",
+      "classification",
+      "scikit-learn",
+      "polar-science",
+      "tfidf"
+    ],
+    "date": "2026-09-30T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Part 02: Automated Sensor Dataset Classification",
+    "permalink": "/ml-blog/02-dataset-classification"
+  },
+  "nextItem": {
+    "title": "Part 04: Feature Engineering for Cryospheric Text and Time-Series",
+    "permalink": "/ml-blog/04-feature-engineering"
+  }
+}

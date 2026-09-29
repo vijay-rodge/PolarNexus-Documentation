@@ -1,0 +1,27 @@
+{
+  "id": "overview/objectives",
+  "title": "System Objectives & Quantitative KPIs",
+  "description": "1. Architectural & Functional Objectives",
+  "source": "@site/docs/overview/objectives.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/objectives",
+  "permalink": "/docs/overview/objectives",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "System Objectives & Quantitative KPIs",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Project Vision & Strategic Roadmap",
+    "permalink": "/docs/overview/project-vision"
+  },
+  "next": {
+    "title": "Complete Solution Architecture & End-to-End Flow",
+    "permalink": "/docs/overview/solution-overview"
+  }
+}

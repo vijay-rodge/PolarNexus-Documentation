@@ -1,0 +1,27 @@
+{
+  "id": "media/media-metadata",
+  "title": "Media Metadata Schema",
+  "description": "1. JSON MediaRecord Schema",
+  "source": "@site/docs/media/media-metadata.md",
+  "sourceDirName": "media",
+  "slug": "/media/media-metadata",
+  "permalink": "/docs/media/media-metadata",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Media Metadata Schema",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Media Search & Filtering",
+    "permalink": "/docs/media/media-search"
+  },
+  "next": {
+    "title": "Media Provenance & Attribution",
+    "permalink": "/docs/media/media-provenance"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "scientific-data/dataset-discovery",
+  "title": "Dataset Discovery & Schema Detection",
+  "description": "1. Automated Schema Identification",
+  "source": "@site/docs/scientific-data/dataset-discovery.md",
+  "sourceDirName": "scientific-data",
+  "slug": "/scientific-data/dataset-discovery",
+  "permalink": "/docs/scientific-data/dataset-discovery",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Dataset Discovery & Schema Detection",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Scientific Data Engine Overview",
+    "permalink": "/docs/scientific-data/overview"
+  },
+  "next": {
+    "title": "Dataset Querying & Temporal Slicing",
+    "permalink": "/docs/scientific-data/dataset-querying"
+  }
+}

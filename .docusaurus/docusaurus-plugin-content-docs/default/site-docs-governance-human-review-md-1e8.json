@@ -1,0 +1,27 @@
+{
+  "id": "governance/human-review",
+  "title": "Human Review & Editorial Sign-off",
+  "description": "1. Multi-Stage Editorial Workflow",
+  "source": "@site/docs/governance/human-review.md",
+  "sourceDirName": "governance",
+  "slug": "/governance/human-review",
+  "permalink": "/docs/governance/human-review",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Human Review & Editorial Sign-off",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Content Governance & Editorial Policy",
+    "permalink": "/docs/governance/content-governance"
+  },
+  "next": {
+    "title": "Model & Dataset Versioning",
+    "permalink": "/docs/governance/versioning"
+  }
+}

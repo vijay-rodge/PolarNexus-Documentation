@@ -1,0 +1,27 @@
+{
+  "id": "security/api-security",
+  "title": "API Security & Defense Mechanisms",
+  "description": "1. OWASP Top 10 Protections",
+  "source": "@site/docs/security/api-security.md",
+  "sourceDirName": "security",
+  "slug": "/security/api-security",
+  "permalink": "/docs/security/api-security",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "API Security & Defense Mechanisms",
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "File Security & Bitstream Sanitization",
+    "permalink": "/docs/security/file-security"
+  },
+  "next": {
+    "title": "AI Security & Prompt Injection Defense",
+    "permalink": "/docs/security/ai-security"
+  }
+}

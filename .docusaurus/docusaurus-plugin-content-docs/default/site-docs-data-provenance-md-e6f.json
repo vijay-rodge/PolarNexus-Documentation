@@ -1,0 +1,27 @@
+{
+  "id": "data/provenance",
+  "title": "Data Provenance & Cryptographic Audit Trails",
+  "description": "1. The Necessity of Scientific Provenance",
+  "source": "@site/docs/data/provenance.md",
+  "sourceDirName": "data",
+  "slug": "/data/provenance",
+  "permalink": "/docs/data/provenance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Data Provenance & Cryptographic Audit Trails",
+    "sidebar_position": 8
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Metadata Management & Dublin Core Schema",
+    "permalink": "/docs/data/metadata-management"
+  },
+  "next": {
+    "title": "Data Validation & Outlier Detection",
+    "permalink": "/docs/data/data-validation"
+  }
+}

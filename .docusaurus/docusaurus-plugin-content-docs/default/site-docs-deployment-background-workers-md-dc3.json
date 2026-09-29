@@ -1,0 +1,27 @@
+{
+  "id": "deployment/background-workers",
+  "title": "Background Workers & Ingestion Schedulers",
+  "description": "1. Periodic Harvesting Tasks",
+  "source": "@site/docs/deployment/background-workers.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/background-workers",
+  "permalink": "/docs/deployment/background-workers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Background Workers & Ingestion Schedulers",
+    "sidebar_position": 7
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Storage Architecture & Persistent Volumes",
+    "permalink": "/docs/deployment/storage"
+  },
+  "next": {
+    "title": "System Monitoring & Telemetry",
+    "permalink": "/docs/deployment/monitoring"
+  }
+}

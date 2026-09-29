@@ -1,0 +1,27 @@
+{
+  "id": "scientific-data/dataset-querying",
+  "title": "Dataset Querying & Temporal Slicing",
+  "description": "1. Vectorized Temporal Filtering",
+  "source": "@site/docs/scientific-data/dataset-querying.md",
+  "sourceDirName": "scientific-data",
+  "slug": "/scientific-data/dataset-querying",
+  "permalink": "/docs/scientific-data/dataset-querying",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Dataset Querying & Temporal Slicing",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Dataset Discovery & Schema Detection",
+    "permalink": "/docs/scientific-data/dataset-discovery"
+  },
+  "next": {
+    "title": "Data Processing & Resampling",
+    "permalink": "/docs/scientific-data/data-processing"
+  }
+}

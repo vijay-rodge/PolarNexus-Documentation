@@ -1,0 +1,27 @@
+{
+  "id": "data/data-validation",
+  "title": "Data Validation & Outlier Detection",
+  "description": "1. WMO Physical Boundary Guardrails",
+  "source": "@site/docs/data/data-validation.md",
+  "sourceDirName": "data",
+  "slug": "/data/data-validation",
+  "permalink": "/docs/data/data-validation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Data Validation & Outlier Detection",
+    "sidebar_position": 9
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Data Provenance & Cryptographic Audit Trails",
+    "permalink": "/docs/data/provenance"
+  },
+  "next": {
+    "title": "Data Lifecycle & Retention Policies",
+    "permalink": "/docs/data/data-lifecycle"
+  }
+}

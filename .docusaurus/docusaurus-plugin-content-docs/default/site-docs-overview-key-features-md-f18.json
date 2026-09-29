@@ -1,0 +1,27 @@
+{
+  "id": "overview/key-features",
+  "title": "Key Features & Platform Capabilities",
+  "description": "1. Feature Matrix Overview",
+  "source": "@site/docs/overview/key-features.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/key-features",
+  "permalink": "/docs/overview/key-features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Key Features & Platform Capabilities",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Complete Solution Architecture & End-to-End Flow",
+    "permalink": "/docs/overview/solution-overview"
+  },
+  "next": {
+    "title": "Users & Stakeholder Personas",
+    "permalink": "/docs/overview/users-and-personas"
+  }
+}

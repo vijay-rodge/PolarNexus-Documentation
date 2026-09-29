@@ -1,0 +1,25 @@
+{
+  "id": "intro",
+  "title": "Platform Documentation Welcome",
+  "description": "Production-grade engineering documentation for the PolarNexus Polar Science Portal (SIH PS 26063).",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Platform Documentation Welcome",
+    "description": "Production-grade engineering documentation for the PolarNexus Polar Science Portal (SIH PS 26063).",
+    "slug": "/intro"
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Problem Statement & Scientific Context",
+    "permalink": "/docs/overview/problem-statement"
+  }
+}

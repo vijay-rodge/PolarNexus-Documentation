@@ -1,0 +1,27 @@
+{
+  "id": "development/contribution",
+  "title": "Contribution Guidelines",
+  "description": "1. Code Standards",
+  "source": "@site/docs/development/contribution.md",
+  "sourceDirName": "development",
+  "slug": "/development/contribution",
+  "permalink": "/docs/development/contribution",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Contribution Guidelines",
+    "sidebar_position": 11
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Debugging & Troubleshooting",
+    "permalink": "/docs/development/debugging"
+  },
+  "next": {
+    "title": "Production Deployment Overview",
+    "permalink": "/docs/deployment/overview"
+  }
+}

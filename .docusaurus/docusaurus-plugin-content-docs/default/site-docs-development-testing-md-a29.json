@@ -1,0 +1,27 @@
+{
+  "id": "development/testing",
+  "title": "Automated Testing & Verification",
+  "description": "1. Running Test Suite",
+  "source": "@site/docs/development/testing.md",
+  "sourceDirName": "development",
+  "slug": "/development/testing",
+  "permalink": "/docs/development/testing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Automated Testing & Verification",
+    "sidebar_position": 9
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Running the Streamlit Application",
+    "permalink": "/docs/development/running-the-application"
+  },
+  "next": {
+    "title": "Debugging & Troubleshooting",
+    "permalink": "/docs/development/debugging"
+  }
+}

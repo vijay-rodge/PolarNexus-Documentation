@@ -1,0 +1,71 @@
+{
+  "permalink": "/ml-blog/08-unsupervised-learning",
+  "source": "@site/blog/ml/08-unsupervised-learning.md",
+  "title": "Part 08: Unsupervised Learning for Cryospheric Discovery",
+  "description": "Discovering emergent research topics and seasonal climate regimes without labeled training data.",
+  "date": "2026-09-30T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "machine-learning",
+      "permalink": "/ml-blog/tags/machine-learning"
+    },
+    {
+      "inline": true,
+      "label": "classification",
+      "permalink": "/ml-blog/tags/classification"
+    },
+    {
+      "inline": true,
+      "label": "scikit-learn",
+      "permalink": "/ml-blog/tags/scikit-learn"
+    },
+    {
+      "inline": true,
+      "label": "polar-science",
+      "permalink": "/ml-blog/tags/polar-science"
+    },
+    {
+      "inline": true,
+      "label": "tfidf",
+      "permalink": "/ml-blog/tags/tfidf"
+    }
+  ],
+  "readingTime": 2.6,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "PolarNexus Engineering Team",
+      "title": "NCPOR Polar Cyberinfrastructure Group",
+      "url": "https://github.com/vijay-rodge/PolarNexus",
+      "imageURL": "https://github.com/identicons/polarnexus.png",
+      "key": "polarnexus-eng",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "08-unsupervised-learning",
+    "title": "Part 08: Unsupervised Learning for Cryospheric Discovery",
+    "description": "Discovering emergent research topics and seasonal climate regimes without labeled training data.",
+    "authors": [
+      "polarnexus-eng"
+    ],
+    "tags": [
+      "machine-learning",
+      "classification",
+      "scikit-learn",
+      "polar-science",
+      "tfidf"
+    ],
+    "date": "2026-09-30T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Part 07: Supervised Learning Architectures in PolarNexus",
+    "permalink": "/ml-blog/07-supervised-learning"
+  },
+  "nextItem": {
+    "title": "Part 09: K-Means Clustering of Multi-Decadal Polar Research",
+    "permalink": "/ml-blog/09-kmeans-clustering"
+  }
+}

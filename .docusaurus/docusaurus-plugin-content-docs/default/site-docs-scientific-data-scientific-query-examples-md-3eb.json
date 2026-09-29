@@ -1,0 +1,27 @@
+{
+  "id": "scientific-data/scientific-query-examples",
+  "title": "Scientific Query Examples & Benchmarks",
+  "description": "1. Verified Query Benchmarks",
+  "source": "@site/docs/scientific-data/scientific-query-examples.md",
+  "sourceDirName": "scientific-data",
+  "slug": "/scientific-data/scientific-query-examples",
+  "permalink": "/docs/scientific-data/scientific-query-examples",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Scientific Query Examples & Benchmarks",
+    "sidebar_position": 9
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Result Validation & Boundary Auditing",
+    "permalink": "/docs/scientific-data/result-validation"
+  },
+  "next": {
+    "title": "Media Dissemination Overview",
+    "permalink": "/docs/media/overview"
+  }
+}

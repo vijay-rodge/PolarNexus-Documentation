@@ -1,0 +1,27 @@
+{
+  "id": "platform/research-explorer",
+  "title": "Research Explorer & Scientific Domains",
+  "description": "1. Scientific Domain Categorization",
+  "source": "@site/docs/platform/research-explorer.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/research-explorer",
+  "permalink": "/docs/platform/research-explorer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Research Explorer & Scientific Domains",
+    "sidebar_position": 7
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Station Explorer & Telemetry",
+    "permalink": "/docs/platform/station-explorer"
+  },
+  "next": {
+    "title": "Dataset Explorer (NPDC Catalog)",
+    "permalink": "/docs/platform/dataset-explorer"
+  }
+}

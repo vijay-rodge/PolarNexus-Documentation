@@ -1,0 +1,71 @@
+{
+  "permalink": "/ml-blog/12-model-evaluation",
+  "source": "@site/blog/ml/12-model-evaluation.md",
+  "title": "Part 12: Evaluation Metrics: Precision, Recall, and F1-Score",
+  "description": "Why raw accuracy is misleading in imbalanced scientific domains and how macro F1-score provides a reliable benchmark.",
+  "date": "2026-09-30T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "machine-learning",
+      "permalink": "/ml-blog/tags/machine-learning"
+    },
+    {
+      "inline": true,
+      "label": "classification",
+      "permalink": "/ml-blog/tags/classification"
+    },
+    {
+      "inline": true,
+      "label": "scikit-learn",
+      "permalink": "/ml-blog/tags/scikit-learn"
+    },
+    {
+      "inline": true,
+      "label": "polar-science",
+      "permalink": "/ml-blog/tags/polar-science"
+    },
+    {
+      "inline": true,
+      "label": "tfidf",
+      "permalink": "/ml-blog/tags/tfidf"
+    }
+  ],
+  "readingTime": 2.6,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "PolarNexus Engineering Team",
+      "title": "NCPOR Polar Cyberinfrastructure Group",
+      "url": "https://github.com/vijay-rodge/PolarNexus",
+      "imageURL": "https://github.com/identicons/polarnexus.png",
+      "key": "polarnexus-eng",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "12-model-evaluation",
+    "title": "Part 12: Evaluation Metrics: Precision, Recall, and F1-Score",
+    "description": "Why raw accuracy is misleading in imbalanced scientific domains and how macro F1-score provides a reliable benchmark.",
+    "authors": [
+      "polarnexus-eng"
+    ],
+    "tags": [
+      "machine-learning",
+      "classification",
+      "scikit-learn",
+      "polar-science",
+      "tfidf"
+    ],
+    "date": "2026-09-30T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Part 11: Disciplined Model Training and Cross-Validation",
+    "permalink": "/ml-blog/11-model-training"
+  },
+  "nextItem": {
+    "title": "Part 13: Confusion Matrix Analysis and Class Ambiguities",
+    "permalink": "/ml-blog/13-confusion-matrix"
+  }
+}

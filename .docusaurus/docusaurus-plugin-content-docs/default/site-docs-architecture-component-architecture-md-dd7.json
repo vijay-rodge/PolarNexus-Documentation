@@ -1,0 +1,27 @@
+{
+  "id": "architecture/component-architecture",
+  "title": "Component Architecture & Code Modules",
+  "description": "1. Codebase Directory Organization",
+  "source": "@site/docs/architecture/component-architecture.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/component-architecture",
+  "permalink": "/docs/architecture/component-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Component Architecture & Code Modules",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "High-Level Architecture",
+    "permalink": "/docs/architecture/high-level-architecture"
+  },
+  "next": {
+    "title": "Application Lifecycle & Request Flow",
+    "permalink": "/docs/architecture/application-flow"
+  }
+}

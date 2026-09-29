@@ -1,0 +1,27 @@
+{
+  "id": "security/data-security",
+  "title": "Data Security & Storage Encryption",
+  "description": "1. Encryption Standards",
+  "source": "@site/docs/security/data-security.md",
+  "sourceDirName": "security",
+  "slug": "/security/data-security",
+  "permalink": "/docs/security/data-security",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Data Security & Storage Encryption",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Authorization & Permission Scopes",
+    "permalink": "/docs/security/authorization"
+  },
+  "next": {
+    "title": "File Security & Bitstream Sanitization",
+    "permalink": "/docs/security/file-security"
+  }
+}

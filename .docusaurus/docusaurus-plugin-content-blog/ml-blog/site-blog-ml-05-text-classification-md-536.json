@@ -1,0 +1,71 @@
+{
+  "permalink": "/ml-blog/05-text-classification",
+  "source": "@site/blog/ml/05-text-classification.md",
+  "title": "Part 05: Supervised Text Classification Pipelines",
+  "description": "Comparing Multinomial Naive Bayes, Logistic Regression, and Linear SVMs on polar research abstracts.",
+  "date": "2026-09-30T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "machine-learning",
+      "permalink": "/ml-blog/tags/machine-learning"
+    },
+    {
+      "inline": true,
+      "label": "classification",
+      "permalink": "/ml-blog/tags/classification"
+    },
+    {
+      "inline": true,
+      "label": "scikit-learn",
+      "permalink": "/ml-blog/tags/scikit-learn"
+    },
+    {
+      "inline": true,
+      "label": "polar-science",
+      "permalink": "/ml-blog/tags/polar-science"
+    },
+    {
+      "inline": true,
+      "label": "tfidf",
+      "permalink": "/ml-blog/tags/tfidf"
+    }
+  ],
+  "readingTime": 2.6,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "PolarNexus Engineering Team",
+      "title": "NCPOR Polar Cyberinfrastructure Group",
+      "url": "https://github.com/vijay-rodge/PolarNexus",
+      "imageURL": "https://github.com/identicons/polarnexus.png",
+      "key": "polarnexus-eng",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "05-text-classification",
+    "title": "Part 05: Supervised Text Classification Pipelines",
+    "description": "Comparing Multinomial Naive Bayes, Logistic Regression, and Linear SVMs on polar research abstracts.",
+    "authors": [
+      "polarnexus-eng"
+    ],
+    "tags": [
+      "machine-learning",
+      "classification",
+      "scikit-learn",
+      "polar-science",
+      "tfidf"
+    ],
+    "date": "2026-09-30T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Part 04: Feature Engineering for Cryospheric Text and Time-Series",
+    "permalink": "/ml-blog/04-feature-engineering"
+  },
+  "nextItem": {
+    "title": "Part 06: Mathematical Deep Dive: Term Frequency-Inverse Document Frequency (TF-IDF)",
+    "permalink": "/ml-blog/06-tfidf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "knowledge/researchers",
+  "title": "Researchers & Principal Investigators",
+  "description": "1. Directory of Polar Scientists",
+  "source": "@site/docs/knowledge/researchers.md",
+  "sourceDirName": "knowledge",
+  "slug": "/knowledge/researchers",
+  "permalink": "/docs/knowledge/researchers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Researchers & Principal Investigators",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Polar Research Stations & Bases",
+    "permalink": "/docs/knowledge/stations"
+  },
+  "next": {
+    "title": "Research Projects & Scientific Themes",
+    "permalink": "/docs/knowledge/research-projects"
+  }
+}

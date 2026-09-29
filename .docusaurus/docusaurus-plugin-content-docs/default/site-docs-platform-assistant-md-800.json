@@ -1,0 +1,27 @@
+{
+  "id": "platform/assistant",
+  "title": "Polar AI Assistant (LangGraph RAG)",
+  "description": "1. Interactive Scientific Assistant",
+  "source": "@site/docs/platform/assistant.md",
+  "sourceDirName": "platform",
+  "slug": "/platform/assistant",
+  "permalink": "/docs/platform/assistant",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Polar AI Assistant (LangGraph RAG)",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Intelligent Search & Discovery",
+    "permalink": "/docs/platform/intelligent-search"
+  },
+  "next": {
+    "title": "Expedition Explorer",
+    "permalink": "/docs/platform/expedition-explorer"
+  }
+}

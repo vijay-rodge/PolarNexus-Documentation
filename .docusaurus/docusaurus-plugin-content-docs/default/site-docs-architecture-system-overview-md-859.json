@@ -1,0 +1,27 @@
+{
+  "id": "architecture/system-overview",
+  "title": "System Architecture Overview",
+  "description": "1. Architectural Philosophy: The Dual-Engine Paradigm",
+  "source": "@site/docs/architecture/system-overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/system-overview",
+  "permalink": "/docs/architecture/system-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "System Architecture Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Expected Impact & National Significance",
+    "permalink": "/docs/overview/expected-impact"
+  },
+  "next": {
+    "title": "High-Level Architecture",
+    "permalink": "/docs/architecture/high-level-architecture"
+  }
+}

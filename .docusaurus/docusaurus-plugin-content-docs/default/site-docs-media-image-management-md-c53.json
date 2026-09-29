@@ -1,0 +1,27 @@
+{
+  "id": "media/image-management",
+  "title": "Image Management & Extraction",
+  "description": "1. Automated Bitstream Extraction",
+  "source": "@site/docs/media/image-management.md",
+  "sourceDirName": "media",
+  "slug": "/media/image-management",
+  "permalink": "/docs/media/image-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Image Management & Extraction",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Media Dissemination Overview",
+    "permalink": "/docs/media/overview"
+  },
+  "next": {
+    "title": "Video Management & Field Footage",
+    "permalink": "/docs/media/video-management"
+  }
+}

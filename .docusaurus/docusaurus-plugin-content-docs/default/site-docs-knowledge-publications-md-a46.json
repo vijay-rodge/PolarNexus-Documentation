@@ -1,0 +1,27 @@
+{
+  "id": "knowledge/publications",
+  "title": "Scientific Publications Catalog",
+  "description": "1. DSpace Publication Repository Integration",
+  "source": "@site/docs/knowledge/publications.md",
+  "sourceDirName": "knowledge",
+  "slug": "/knowledge/publications",
+  "permalink": "/docs/knowledge/publications",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Scientific Publications Catalog",
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Research Projects & Scientific Themes",
+    "permalink": "/docs/knowledge/research-projects"
+  },
+  "next": {
+    "title": "Expedition Technical Reports",
+    "permalink": "/docs/knowledge/reports"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "data/data-ecosystem",
+  "title": "The Cryospheric Data Ecosystem",
+  "description": "1. Multi-Modal Polar Data Landscape",
+  "source": "@site/docs/data/data-ecosystem.md",
+  "sourceDirName": "data",
+  "slug": "/data/data-ecosystem",
+  "permalink": "/docs/data/data-ecosystem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "The Cryospheric Data Ecosystem",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Deployment Architecture & Container Topology",
+    "permalink": "/docs/architecture/deployment-architecture"
+  },
+  "next": {
+    "title": "Authoritative Data Sources",
+    "permalink": "/docs/data/data-sources"
+  }
+}

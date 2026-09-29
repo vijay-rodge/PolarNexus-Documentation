@@ -1,0 +1,27 @@
+{
+  "id": "deployment/monitoring",
+  "title": "System Monitoring & Telemetry",
+  "description": "1. Observability Stack",
+  "source": "@site/docs/deployment/monitoring.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/monitoring",
+  "permalink": "/docs/deployment/monitoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "System Monitoring & Telemetry",
+    "sidebar_position": 8
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Background Workers & Ingestion Schedulers",
+    "permalink": "/docs/deployment/background-workers"
+  },
+  "next": {
+    "title": "Backup Policies & Snapshots",
+    "permalink": "/docs/deployment/backups"
+  }
+}

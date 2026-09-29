@@ -1,0 +1,27 @@
+{
+  "id": "security/file-security",
+  "title": "File Security & Bitstream Sanitization",
+  "description": "1. Binary Magic Byte Verification",
+  "source": "@site/docs/security/file-security.md",
+  "sourceDirName": "security",
+  "slug": "/security/file-security",
+  "permalink": "/docs/security/file-security",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "File Security & Bitstream Sanitization",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Data Security & Storage Encryption",
+    "permalink": "/docs/security/data-security"
+  },
+  "next": {
+    "title": "API Security & Defense Mechanisms",
+    "permalink": "/docs/security/api-security"
+  }
+}

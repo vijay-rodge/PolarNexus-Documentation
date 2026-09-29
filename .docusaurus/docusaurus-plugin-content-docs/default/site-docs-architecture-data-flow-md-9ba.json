@@ -1,0 +1,27 @@
+{
+  "id": "architecture/data-flow",
+  "title": "System Data Flow & Pipeline Transformations",
+  "description": "1. Data Transformation Pipeline",
+  "source": "@site/docs/architecture/data-flow.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/data-flow",
+  "permalink": "/docs/architecture/data-flow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "System Data Flow & Pipeline Transformations",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Application Lifecycle & Request Flow",
+    "permalink": "/docs/architecture/application-flow"
+  },
+  "next": {
+    "title": "Ingestion Architecture & Harvesting Engine",
+    "permalink": "/docs/architecture/ingestion-architecture"
+  }
+}

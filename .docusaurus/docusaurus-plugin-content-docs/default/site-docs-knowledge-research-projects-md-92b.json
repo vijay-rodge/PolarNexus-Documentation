@@ -1,0 +1,27 @@
+{
+  "id": "knowledge/research-projects",
+  "title": "Research Projects & Scientific Themes",
+  "description": "1. Core Polar Scientific Domains",
+  "source": "@site/docs/knowledge/research-projects.md",
+  "sourceDirName": "knowledge",
+  "slug": "/knowledge/research-projects",
+  "permalink": "/docs/knowledge/research-projects",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Research Projects & Scientific Themes",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Researchers & Principal Investigators",
+    "permalink": "/docs/knowledge/researchers"
+  },
+  "next": {
+    "title": "Scientific Publications Catalog",
+    "permalink": "/docs/knowledge/publications"
+  }
+}

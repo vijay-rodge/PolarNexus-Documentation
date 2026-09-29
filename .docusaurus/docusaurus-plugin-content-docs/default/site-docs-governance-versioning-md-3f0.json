@@ -1,0 +1,27 @@
+{
+  "id": "governance/versioning",
+  "title": "Model & Dataset Versioning",
+  "description": "1. Immutable Model Registry",
+  "source": "@site/docs/governance/versioning.md",
+  "sourceDirName": "governance",
+  "slug": "/governance/versioning",
+  "permalink": "/docs/governance/versioning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Model & Dataset Versioning",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Human Review & Editorial Sign-off",
+    "permalink": "/docs/governance/human-review"
+  },
+  "next": {
+    "title": "Responsible AI Principles",
+    "permalink": "/docs/governance/responsible-ai"
+  }
+}

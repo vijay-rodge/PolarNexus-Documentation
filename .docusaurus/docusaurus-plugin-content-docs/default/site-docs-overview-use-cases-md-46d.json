@@ -1,0 +1,27 @@
+{
+  "id": "overview/use-cases",
+  "title": "Operational Use Cases & Scenarios",
+  "description": "1. Overview",
+  "source": "@site/docs/overview/use-cases.md",
+  "sourceDirName": "overview",
+  "slug": "/overview/use-cases",
+  "permalink": "/docs/overview/use-cases",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Operational Use Cases & Scenarios",
+    "sidebar_position": 7
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Users & Stakeholder Personas",
+    "permalink": "/docs/overview/users-and-personas"
+  },
+  "next": {
+    "title": "Expected Impact & National Significance",
+    "permalink": "/docs/overview/expected-impact"
+  }
+}

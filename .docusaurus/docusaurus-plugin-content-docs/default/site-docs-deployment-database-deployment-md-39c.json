@@ -1,0 +1,27 @@
+{
+  "id": "deployment/database-deployment",
+  "title": "PostgreSQL Deployment & Migration",
+  "description": "1. High Availability Setup",
+  "source": "@site/docs/deployment/database-deployment.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/database-deployment",
+  "permalink": "/docs/deployment/database-deployment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "PostgreSQL Deployment & Migration",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Production Environment Variables",
+    "permalink": "/docs/deployment/environment-configuration"
+  },
+  "next": {
+    "title": "Storage Architecture & Persistent Volumes",
+    "permalink": "/docs/deployment/storage"
+  }
+}

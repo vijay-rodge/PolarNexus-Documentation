@@ -1,0 +1,27 @@
+{
+  "id": "scientific-data/statistical-analysis",
+  "title": "Statistical Analysis & Extreme Value Theory",
+  "description": "1. Core Mathematical Formulations",
+  "source": "@site/docs/scientific-data/statistical-analysis.md",
+  "sourceDirName": "scientific-data",
+  "slug": "/scientific-data/statistical-analysis",
+  "permalink": "/docs/scientific-data/statistical-analysis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Statistical Analysis & Extreme Value Theory",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Data Processing & Resampling",
+    "permalink": "/docs/scientific-data/data-processing"
+  },
+  "next": {
+    "title": "Derived Physical Calculations",
+    "permalink": "/docs/scientific-data/scientific-calculations"
+  }
+}

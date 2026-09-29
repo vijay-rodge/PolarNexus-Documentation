@@ -1,0 +1,27 @@
+{
+  "id": "media/overview",
+  "title": "Media Dissemination Overview",
+  "description": "1. Visual Cryospheric Dissemination",
+  "source": "@site/docs/media/overview.md",
+  "sourceDirName": "media",
+  "slug": "/media/overview",
+  "permalink": "/docs/media/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Media Dissemination Overview",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Scientific Query Examples & Benchmarks",
+    "permalink": "/docs/scientific-data/scientific-query-examples"
+  },
+  "next": {
+    "title": "Image Management & Extraction",
+    "permalink": "/docs/media/image-management"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "deployment/environment-configuration",
+  "title": "Production Environment Variables",
+  "description": "1. Production Secrets Management",
+  "source": "@site/docs/deployment/environment-configuration.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/environment-configuration",
+  "permalink": "/docs/deployment/environment-configuration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Production Environment Variables",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Production Infrastructure Setup",
+    "permalink": "/docs/deployment/production-setup"
+  },
+  "next": {
+    "title": "PostgreSQL Deployment & Migration",
+    "permalink": "/docs/deployment/database-deployment"
+  }
+}

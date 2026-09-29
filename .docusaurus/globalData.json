@@ -1,0 +1,628 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "api/authentication",
+              "path": "/docs/api/authentication",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api/content-api",
+              "path": "/docs/api/content-api",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api/dataset-api",
+              "path": "/docs/api/dataset-api",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api/expedition-api",
+              "path": "/docs/api/expedition-api",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api/media-api",
+              "path": "/docs/api/media-api",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api/overview",
+              "path": "/docs/api/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api/publication-api",
+              "path": "/docs/api/publication-api",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api/search-api",
+              "path": "/docs/api/search-api",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "api/station-api",
+              "path": "/docs/api/station-api",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/application-flow",
+              "path": "/docs/architecture/application-flow",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/component-architecture",
+              "path": "/docs/architecture/component-architecture",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/content-generation",
+              "path": "/docs/architecture/content-generation",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/data-flow",
+              "path": "/docs/architecture/data-flow",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/deployment-architecture",
+              "path": "/docs/architecture/deployment-architecture",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/high-level-architecture",
+              "path": "/docs/architecture/high-level-architecture",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/ingestion-architecture",
+              "path": "/docs/architecture/ingestion-architecture",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/media-processing",
+              "path": "/docs/architecture/media-processing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/query-processing",
+              "path": "/docs/architecture/query-processing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/scientific-analysis-flow",
+              "path": "/docs/architecture/scientific-analysis-flow",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "architecture/system-overview",
+              "path": "/docs/architecture/system-overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/data-cleaning",
+              "path": "/docs/data/data-cleaning",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/data-ecosystem",
+              "path": "/docs/data/data-ecosystem",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/data-ingestion",
+              "path": "/docs/data/data-ingestion",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/data-lifecycle",
+              "path": "/docs/data/data-lifecycle",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/data-normalization",
+              "path": "/docs/data/data-normalization",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/data-sources",
+              "path": "/docs/data/data-sources",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/data-validation",
+              "path": "/docs/data/data-validation",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/metadata-management",
+              "path": "/docs/data/metadata-management",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/provenance",
+              "path": "/docs/data/provenance",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "data/source-connectors",
+              "path": "/docs/data/source-connectors",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/background-workers",
+              "path": "/docs/deployment/background-workers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/backups",
+              "path": "/docs/deployment/backups",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/database-deployment",
+              "path": "/docs/deployment/database-deployment",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/disaster-recovery",
+              "path": "/docs/deployment/disaster-recovery",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/docker",
+              "path": "/docs/deployment/docker",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/environment-configuration",
+              "path": "/docs/deployment/environment-configuration",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/monitoring",
+              "path": "/docs/deployment/monitoring",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/overview",
+              "path": "/docs/deployment/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/production-setup",
+              "path": "/docs/deployment/production-setup",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "deployment/storage",
+              "path": "/docs/deployment/storage",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/configuration",
+              "path": "/docs/development/configuration",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/contribution",
+              "path": "/docs/development/contribution",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/database-setup",
+              "path": "/docs/development/database-setup",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/debugging",
+              "path": "/docs/development/debugging",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/environment-variables",
+              "path": "/docs/development/environment-variables",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/ingestion-setup",
+              "path": "/docs/development/ingestion-setup",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/local-setup",
+              "path": "/docs/development/local-setup",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/prerequisites",
+              "path": "/docs/development/prerequisites",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/project-structure",
+              "path": "/docs/development/project-structure",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/running-the-application",
+              "path": "/docs/development/running-the-application",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "development/testing",
+              "path": "/docs/development/testing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "governance/content-governance",
+              "path": "/docs/governance/content-governance",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "governance/data-governance",
+              "path": "/docs/governance/data-governance",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "governance/human-review",
+              "path": "/docs/governance/human-review",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "governance/responsible-ai",
+              "path": "/docs/governance/responsible-ai",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "governance/source-verification",
+              "path": "/docs/governance/source-verification",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "governance/versioning",
+              "path": "/docs/governance/versioning",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "knowledge/datasets",
+              "path": "/docs/knowledge/datasets",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "knowledge/expeditions",
+              "path": "/docs/knowledge/expeditions",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "knowledge/institutional-activities",
+              "path": "/docs/knowledge/institutional-activities",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "knowledge/knowledge-repository",
+              "path": "/docs/knowledge/knowledge-repository",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "knowledge/publications",
+              "path": "/docs/knowledge/publications",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "knowledge/relationships",
+              "path": "/docs/knowledge/relationships",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "knowledge/reports",
+              "path": "/docs/knowledge/reports",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "knowledge/research-projects",
+              "path": "/docs/knowledge/research-projects",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "knowledge/researchers",
+              "path": "/docs/knowledge/researchers",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "knowledge/stations",
+              "path": "/docs/knowledge/stations",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "media/image-management",
+              "path": "/docs/media/image-management",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "media/media-metadata",
+              "path": "/docs/media/media-metadata",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "media/media-provenance",
+              "path": "/docs/media/media-provenance",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "media/media-search",
+              "path": "/docs/media/media-search",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "media/overview",
+              "path": "/docs/media/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "media/video-management",
+              "path": "/docs/media/video-management",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "outreach/blog-content",
+              "path": "/docs/outreach/blog-content",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "outreach/content-workflow",
+              "path": "/docs/outreach/content-workflow",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "outreach/educational-content",
+              "path": "/docs/outreach/educational-content",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "outreach/expedition-stories",
+              "path": "/docs/outreach/expedition-stories",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "outreach/human-review",
+              "path": "/docs/outreach/human-review",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "outreach/overview",
+              "path": "/docs/outreach/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "outreach/publishing",
+              "path": "/docs/outreach/publishing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "outreach/research-highlights",
+              "path": "/docs/outreach/research-highlights",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "outreach/social-media-content",
+              "path": "/docs/outreach/social-media-content",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "outreach/website-content",
+              "path": "/docs/outreach/website-content",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/expected-impact",
+              "path": "/docs/overview/expected-impact",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/key-features",
+              "path": "/docs/overview/key-features",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/objectives",
+              "path": "/docs/overview/objectives",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/problem-statement",
+              "path": "/docs/overview/problem-statement",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/project-vision",
+              "path": "/docs/overview/project-vision",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/solution-overview",
+              "path": "/docs/overview/solution-overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/use-cases",
+              "path": "/docs/overview/use-cases",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "overview/users-and-personas",
+              "path": "/docs/overview/users-and-personas",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/assistant",
+              "path": "/docs/platform/assistant",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/dataset-explorer",
+              "path": "/docs/platform/dataset-explorer",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/expedition-explorer",
+              "path": "/docs/platform/expedition-explorer",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/filters",
+              "path": "/docs/platform/filters",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/homepage",
+              "path": "/docs/platform/homepage",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/intelligent-search",
+              "path": "/docs/platform/intelligent-search",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/media-gallery",
+              "path": "/docs/platform/media-gallery",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/publication-explorer",
+              "path": "/docs/platform/publication-explorer",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/research-explorer",
+              "path": "/docs/platform/research-explorer",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/station-explorer",
+              "path": "/docs/platform/station-explorer",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/streamlit-application",
+              "path": "/docs/platform/streamlit-application",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "platform/visualization",
+              "path": "/docs/platform/visualization",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "scientific-data/data-processing",
+              "path": "/docs/scientific-data/data-processing",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "scientific-data/data-visualization",
+              "path": "/docs/scientific-data/data-visualization",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "scientific-data/dataset-discovery",
+              "path": "/docs/scientific-data/dataset-discovery",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "scientific-data/dataset-querying",
+              "path": "/docs/scientific-data/dataset-querying",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "scientific-data/overview",
+              "path": "/docs/scientific-data/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "scientific-data/result-validation",
+              "path": "/docs/scientific-data/result-validation",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "scientific-data/scientific-calculations",
+              "path": "/docs/scientific-data/scientific-calculations",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "scientific-data/scientific-query-examples",
+              "path": "/docs/scientific-data/scientific-query-examples",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "scientific-data/statistical-analysis",
+              "path": "/docs/scientific-data/statistical-analysis",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/ai-security",
+              "path": "/docs/security/ai-security",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/api-security",
+              "path": "/docs/security/api-security",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/authentication",
+              "path": "/docs/security/authentication",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/authorization",
+              "path": "/docs/security/authorization",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/data-security",
+              "path": "/docs/security/data-security",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/file-security",
+              "path": "/docs/security/file-security",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "security/overview",
+              "path": "/docs/security/overview",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

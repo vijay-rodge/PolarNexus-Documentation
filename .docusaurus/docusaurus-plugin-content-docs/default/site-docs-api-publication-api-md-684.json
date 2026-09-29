@@ -1,0 +1,27 @@
+{
+  "id": "api/publication-api",
+  "title": "Publications & Manuscripts API",
+  "description": "1. Endpoint: GET /api/v1/publications",
+  "source": "@site/docs/api/publication-api.md",
+  "sourceDirName": "api",
+  "slug": "/api/publication-api",
+  "permalink": "/docs/api/publication-api",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Publications & Manuscripts API",
+    "sidebar_position": 7
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Scientific Datasets API",
+    "permalink": "/docs/api/dataset-api"
+  },
+  "next": {
+    "title": "Media & Visual Assets API",
+    "permalink": "/docs/api/media-api"
+  }
+}

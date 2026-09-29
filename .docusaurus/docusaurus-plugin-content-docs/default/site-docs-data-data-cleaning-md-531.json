@@ -1,0 +1,27 @@
+{
+  "id": "data/data-cleaning",
+  "title": "Data Cleaning & Preprocessing",
+  "description": "1. Text & Tabular Sanitization",
+  "source": "@site/docs/data/data-cleaning.md",
+  "sourceDirName": "data",
+  "slug": "/data/data-cleaning",
+  "permalink": "/docs/data/data-cleaning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Data Cleaning & Preprocessing",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Data Ingestion Pipeline",
+    "permalink": "/docs/data/data-ingestion"
+  },
+  "next": {
+    "title": "Data Normalization Standards",
+    "permalink": "/docs/data/data-normalization"
+  }
+}
