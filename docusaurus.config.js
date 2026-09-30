@@ -7,12 +7,11 @@ const config = {
   tagline: 'Integrated Polar Science Outreach, Knowledge Repository and Media Dissemination Portal (SIH PS 26063)',
   favicon: 'img/logo.svg',
 
-  url: 'https://vijay-rodge.github.io',
-  baseUrl: '/PolarNexus-Documentation/',
+  url: 'https://polarnexus.ncpor.res.in',
+  baseUrl: '/',
 
   organizationName: 'vijay-rodge',
-  projectName: 'PolarNexus-Documentation',
-  trailingSlash: false,
+  projectName: 'polarnexus',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',

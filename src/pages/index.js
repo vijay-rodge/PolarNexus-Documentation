@@ -27,7 +27,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg pn-btn-secondary"
-            to="/rag-blog">
+            to="/blog">
             RAG & ML Deep Dives
           </Link>
         </div>

@@ -56,8 +56,8 @@ This documentation is designed to serve multiple stakeholder groups—from Hacka
 
 In adherence to strict architectural design standards, deep mathematical and machine learning implementations are isolated from the core user documentation and published in two dedicated engineering blog series:
 
-- [**Polar RAG Architecture Series**](/rag-blog): Comprehensive 16-part technical walkthrough covering document chunking strategies, embedding dimensionality, ChromaDB vector indexing, bi-encoder retrieval, citation assembly, and hallucination containment.
-- [**Polar Machine Learning & Governance Series**](/ml-blog): 16-part series detailing TF-IDF feature matrices, multinomial domain classifiers, K-Means cryospheric clustering, model serialization, and audit logging.
+- [**Polar RAG Architecture Series**](/blog): Comprehensive 16-part technical walkthrough covering document chunking strategies, embedding dimensionality, ChromaDB vector indexing, bi-encoder retrieval, citation assembly, and hallucination containment.
+- [**Polar Machine Learning & Governance Series**](/blog): 16-part series detailing TF-IDF feature matrices, multinomial domain classifiers, K-Means cryospheric clustering, model serialization, and audit logging.
 
 ---
 
